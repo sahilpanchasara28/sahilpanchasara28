@@ -42,3 +42,8 @@
 <a href="https://www.linkedin.com/in/sahilpanchasara/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sahil panchasara-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sahilpanchasara822@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahil panchasara-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sahilpanchasara28/count.svg" />
+</p>
