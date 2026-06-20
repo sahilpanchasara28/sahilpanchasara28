@@ -6,7 +6,7 @@
 
 ### Backend Software Engineer • Distributed Systems • AI Applications
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+with+3%2B+Years+Experience;Building+Scalable+Systems;Distributed+Systems+%7C+GenAI+%7C+Real-Time+Applications;1100%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+with+3%2B+Years+Experience;Building+Scalable+Systems;Distributed+Systems+%7C+GenAI+%7C+System Design;1100%2B+DSA+Problems+Solved" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil%20Panchasara-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sahilpanchasara/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1775-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/)
