@@ -1,49 +1,163 @@
-<img src="https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif">
+<div align="center">
 
-<h1> Hey there! I'm Sahil Panchasara.</h1>  
- 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<img src="https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif" width="120">
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Pandit Deendayal Energy University.
-- 🌱 &nbsp; Learning more about Blockchain Technology, Node and React JS.
+# Hi 👋, I'm Sahil Panchasara
 
-<h3> 🛠 &nbsp;Tech Stack</h3>  
+### Backend Software Engineer • Distributed Systems • AI Applications
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material-ui&logoColor=563D7C)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
-- 📜 &nbsp;
-  ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
-  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
-  ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=microsoft-powerpoint)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+with+3%2B+Years+Experience;Building+Scalable+Systems;Distributed+Systems+%7C+GenAI+%7C+Real-Time+Applications;1100%2B+DSA+Problems+Solved" />
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil%20Panchasara-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sahilpanchasara/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1775-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge\&logo=gmail)](mailto:sahilpanchasara822@gmail.com)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sahilpanchasara/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sahil panchasara-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:sahilpanchasara822@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahil panchasara-blue?style=flat-square&logo=gmail"></a>
+</div>
+
+---
+
+# 💫 About Me
+
+🚀 Backend Software Engineer with **3+ years of experience**
+
+⚡ Passionate about:
+
+* Distributed Systems
+* High Performance APIs
+* AI Applications & RAG
+* Real-Time Backends
+* System Design
+* Scalability
+
+🏆 Employee of the Month (Jan 2025) @ Argusoft India Limited
+
+🧩 Solved **1100+ DSA problems**
+
+🌍 LeetCode Rating **1775 (Top 8.92%)**
+
+---
+
+# ⚙️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp"/>
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sahilpanchasara28/count.svg" />
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github"/>
+</p>
+
+### AI / GenAI
+
+* OpenAI API
+* Gemini API
+* LangChain
+* RAG Pipelines
+* pgvector
+
+---
+
+# 🚀 Featured Project
+
+## 🚚 FleetOps - Real-Time Fleet Tracking Platform
+
+<p align="left">
+<a href="https://fleet-ops-india.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-success?style=for-the-badge"/>
+</a>
+</p>
+
+Real-time fleet tracking platform with GPS ingestion, geofence detection, trip replay, route deviation alerts, and live notifications.
+
+**Tech Stack:** Node.js • React • PostgreSQL • PostGIS • Redis • Socket.IO
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilpanchasara28&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilpanchasara28&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilpanchasara28&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Backend Engineering
+Distributed Systems
+System Design
+AI Applications
+RAG Systems
+High Performance APIs
+Real-Time Applications
+```
+
+---
+
+# 🏅 Achievements
+
+🥇 Employee of the Month (Jan 2025)
+
+🧩 1100+ DSA Problems Solved
+
+📈 LeetCode Rating 1775
+
+🌍 Top 8.92% Globally
+
+👨‍💻 Mentored 4 Junior Engineers
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilpanchasara28&theme=tokyo-night"/>
+</p>
+
+---
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sahilpanchasara">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sahilpanchasara822@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge"/>
+</a>
+
 </p>
